@@ -1,0 +1,7 @@
+(\.|^)ibs\.lgappstv\.com$
+(\.|^)lgtvsdp\.com$
+(\.|^)rdx2\.lgtvsdp\.com$
+(\.|^)info\.lgsmartad\.com$
+(\.|^)ad\.lgsmartad\.com$
+(\.|^)info\.lgsmartad\.com$
+(\.|^)rdx2\.lgtvsdp\.com$
