@@ -32,3 +32,40 @@
 127.0.0.1   es.ad.lgsmartad.com
 127.0.0.1   ngfts.lge.com
 127.0.0.1   lgad.cjpowercast.com.edgesuite.net
+127.0.0.1   eic.cdpsvc.lgtvcommon.com
+127.0.0.1   es.lgtvsdp.com
+127.0.0.1   es.rdx2.lgtvsdp.com
+127.0.0.1   marker.data.rtve.es
+127.0.0.1   api-events.lovestv.es
+127.0.0.1   marker.konograma.com
+127.0.0.1   hbbtv.lovestv.es
+127.0.0.1   cerespluspro.mediaset.es
+127.0.0.1   hbbtvaddisplay.mediaset.es
+127.0.0.1   adserver.konograma.com
+127.0.0.1   es.ibsstat.lgappstv.com
+(\.|^)ibs\.lgappstv\.com$
+(\.|^)lgtvsdp\.com$
+(\.|^)rdx2\.lgtvsdp\.com$
+127.0.0.1   eic.cdpbeacon.lgtvcommon.com
+127.0.0.1   hbbtvloves.mediaset.es
+127.0.0.1   gcpapi.lovestv.es
+(\.|^)info\.lgsmartad\.com$
+127.0.0.1   smartshare.lgtvsdp.com
+127.0.0.1   ibis.lgappstv.com
+127.0.0.1   us.info.lgsmartad.com
+127.0.0.1   es.info.lgsmartad.com
+127.0.0.1   ad.lgappstv.com
+127.0.0.1   ibis.lgappstv.com
+127.0.0.1   es.rdx2.lgtvsdp.com
+127.0.0.1   es.lgtvsdp.com
+127.0.0.1   es.info.lgsmartad.com
+127.0.0.1   lgad.cjpowercast.com.edgesuite.net
+127.0.0.1   smartclip.com
+127.0.0.1   smartshare.lgtvsdp.com
+127.0.0.1   yumenetworks.com
+127.0.0.1   smartclip.net
+127.0.0.1   aic-ngfts.lge.com
+(\.|^)ad\.lgsmartad\.com$
+(\.|^)info\.lgsmartad\.com$
+(\.|^)rdx2\.lgtvsdp\.com$
+127.0.0.1   es.lgtvsdp.com
