@@ -79,28 +79,26 @@
 127.0.0.1   us.rdx2.lgtvsdp.com
 127.0.0.1   yumenetworks.com
 127.0.0.1   aic-ngfts.lge.com
-ad.lgappstv.com
-ibis.lgappstv.com
-jp.rdx2.lgtvsdp.com
-jp.lgtvsdp.com
-jp.info.lgsmartad.com
-lgad.cjpowercast.com.edgesuite.net
-#ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
-smartclip.com
-smartclip.net
-smartshare.lgtvsdp.com
-us.ad.lgsmartad.com
-us.ibs.lgappstv.com
-us.info.lgsmartad.com
-#us.lgtvsdp.com # #117
-us.rdx2.lgtvsdp.com
-yumenetworks.com
-aic-ngfts.lge.com
-us.cdpbeacon.lgtvcommon.com
-us.cdpsvc.lgtvcommon.com
-us.homeprv.lgtvcommon.com
-us.nudge.lgtvcommon.com
-us.rdl.lgtvcommon.com
-us.recommend.lgtvcommon.com
-us.lgsmartad.com
-us.service.lgtvcommon.com
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 ibis.lgappstv.com
+0.0.0.0 jp.rdx2.lgtvsdp.com
+0.0.0.0 jp.lgtvsdp.com
+0.0.0.0 jp.info.lgsmartad.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
+0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 us.ibs.lgappstv.com
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 us.lgtvsdp.com # #117
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 aic-ngfts.lge.com
+0.0.0.0 us.cdpbeacon.lgtvcommon.com
+0.0.0.0 us.cdpsvc.lgtvcommon.com
+0.0.0.0 us.homeprv.lgtvcommon.com
+0.0.0.0 us.nudge.lgtvcommon.com
+0.0.0.0 us.rdl.lgtvcommon.com
+0.0.0.0 us.recommend.lgtvcommon.com
