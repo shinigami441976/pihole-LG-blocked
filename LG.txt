@@ -1,4 +1,4 @@
-cdpbeacon.lgtvcommon.es
+0.0.0.0 cdpbeacon.lgtvcommon.es
 cdpsvc.lgtvcommon.es
 homeprv.lgtvcommon.es
 nudge.lgtvcommon.es
