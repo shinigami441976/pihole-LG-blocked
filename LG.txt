@@ -1,4 +1,4 @@
-0.0.0.0 cdpbeacon.lgtvcommon.es
+cdpbeacon.lgtvcommon.es
 cdpsvc.lgtvcommon.es
 homeprv.lgtvcommon.es
 nudge.lgtvcommon.es
@@ -26,73 +26,72 @@ ibis.lgappstv.com
 ad.lgappstv.com
 info.lgsmartad.com
 rdx2.lgtvsdp.com
-127.0.0.1   smartshare.lgtvsdp.com
-127.0.0.1   es.rdx2.lgtvsdp.com
-127.0.0.1   es.info.lgsmartad.com
-127.0.0.1   es.ad.lgsmartad.com
-127.0.0.1   ngfts.lge.com
-127.0.0.1   lgad.cjpowercast.com.edgesuite.net
-127.0.0.1   eic.cdpsvc.lgtvcommon.com
-127.0.0.1   es.lgtvsdp.com
-127.0.0.1   es.rdx2.lgtvsdp.com
-127.0.0.1   marker.data.rtve.es
-127.0.0.1   api-events.lovestv.es
-127.0.0.1   marker.konograma.com
-127.0.0.1   hbbtv.lovestv.es
-127.0.0.1   cerespluspro.mediaset.es
-127.0.0.1   hbbtvaddisplay.mediaset.es
-127.0.0.1   adserver.konograma.com
-127.0.0.1   es.ibsstat.lgappstv.com
-127.0.0.1   eic.cdpbeacon.lgtvcommon.com
-127.0.0.1   hbbtvloves.mediaset.es
-127.0.0.1   gcpapi.lovestv.es
-127.0.0.1   smartshare.lgtvsdp.com
-127.0.0.1   ibis.lgappstv.com
-127.0.0.1   us.info.lgsmartad.com
-127.0.0.1   es.info.lgsmartad.com
-127.0.0.1   ad.lgappstv.com
-127.0.0.1   ibis.lgappstv.com
-127.0.0.1   es.rdx2.lgtvsdp.com
-127.0.0.1   es.lgtvsdp.com
-127.0.0.1   es.info.lgsmartad.com
-127.0.0.1   lgad.cjpowercast.com.edgesuite.net
-127.0.0.1   smartclip.com
-127.0.0.1   smartshare.lgtvsdp.com
-127.0.0.1   yumenetworks.com
-127.0.0.1   smartclip.net
-127.0.0.1   aic-ngfts.lge.com
-127.0.0.1   es.lgtvsdp.com
-127.0.0.1   ad.lgappstv.com
-127.0.0.1   ibis.lgappstv.com
-127.0.0.1   jp.rdx2.lgtvsdp.com
-127.0.0.1   jp.lgtvsdp.com
-127.0.0.1   jp.info.lgsmartad.com
-127.0.0.1   lgad.cjpowercast.com.edgesuite.net
-127.0.0.1   ngfts.lge.com 
-127.0.0.1   smartclip.com
-127.0.0.1   smartclip.net
-127.0.0.1   smartshare.lgtvsdp.com
-127.0.0.1   us.ad.lgsmartad.com
-127.0.0.1   us.ibs.lgappstv.com
-127.0.0.1   us.info.lgsmartad.com
-127.0.0.1   us.lgtvsdp.com 
-127.0.0.1   us.rdx2.lgtvsdp.com
-127.0.0.1   yumenetworks.com
-127.0.0.1   aic-ngfts.lge.com
+smartshare.lgtvsdp.com
+es.rdx2.lgtvsdp.com
+es.info.lgsmartad.com
+es.ad.lgsmartad.com
+ngfts.lge.com
+lgad.cjpowercast.com.edgesuite.net
+eic.cdpsvc.lgtvcommon.com
+es.lgtvsdp.com
+es.rdx2.lgtvsdp.com
+marker.data.rtve.es
+api-events.lovestv.es
+marker.konograma.com
+hbbtv.lovestv.es
+cerespluspro.mediaset.es
+hbbtvaddisplay.mediaset.es
+adserver.konograma.com
+es.ibsstat.lgappstv.com
+eic.cdpbeacon.lgtvcommon.com
+hbbtvloves.mediaset.es
+gcpapi.lovestv.es
+smartshare.lgtvsdp.com
+ibis.lgappstv.com
+us.info.lgsmartad.com
+es.info.lgsmartad.com
+ad.lgappstv.com
+ibis.lgappstv.com
+es.rdx2.lgtvsdp.com
+es.lgtvsdp.com
+es.info.lgsmartad.com
+lgad.cjpowercast.com.edgesuite.net
+smartclip.com
+smartshare.lgtvsdp.com
+yumenetworks.com
+smartclip.net
+aic-ngfts.lge.com
+es.lgtvsdp.com
 ad.lgappstv.com
 ibis.lgappstv.com
 jp.rdx2.lgtvsdp.com
 jp.lgtvsdp.com
 jp.info.lgsmartad.com
 lgad.cjpowercast.com.edgesuite.net
-ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
+ngfts.lge.com 
+smartclip.com
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com 
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+ad.lgappstv.com
+ibis.lgappstv.com
+jp.rdx2.lgtvsdp.com
+jp.lgtvsdp.com
+jp.info.lgsmartad.com
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com 
 smartclip.com
 smartclip.net
 smartshare.lgtvsdp.com
 us.ad.lgsmartad.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
-us.lgtvsdp.com # #117
+us.lgtvsdp.com 
 us.rdx2.lgtvsdp.com
 yumenetworks.com
 aic-ngfts.lge.com
